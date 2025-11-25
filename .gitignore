@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+pyqb/core.cpp
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# C++
+*.o
+*.obj
+*.exe
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Test and example files
+*.qb
+test_data/
+temp_extract/
+restored/
+backup_*/
